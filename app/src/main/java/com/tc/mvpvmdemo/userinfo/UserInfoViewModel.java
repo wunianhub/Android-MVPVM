@@ -5,10 +5,6 @@ import android.databinding.Bindable;
 
 import com.tc.mvpvmdemo.BR;
 
-/**
- * Created by tiancheng on 16/12/16.
- */
-
 public class UserInfoViewModel extends BaseObservable {
 
     private int headBackgroundRes;
